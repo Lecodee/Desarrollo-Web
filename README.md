@@ -1,3 +1,3 @@
 # Desarrollo-Web
-Trabajos propios
+Trabajos propios.
 Aqui hay algunas maquetas de paginas web, sobre proyectos reales.
