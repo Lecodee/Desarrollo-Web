@@ -1,3 +1,2 @@
 # Desarrollo-Web
-Trabajos propios.
-Aqui hay algunas maquetas de paginas web, sobre proyectos reales.
+Aqui hay algunas maquetas de paginas web, desarrolladas en Visual Studio Code.
