@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    border-top: 10px solid whitesmoke;
+    font-family: 'Rock Salt', cursiva;
+    padding-top: 25px;
+    background-color: #003d76;
+    line-height: 110%;
+    color:rgb(231, 36, 75);
+    padding-bottom: 15px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    
+    
+}
+
+h2{
+    text-align: center;
+    font-family: 'Rock Salt', cursiva;
+    color:rgb(186, 214, 26);
+    font-size: 50px;
+    margin: 0%;
+    padding: 0%;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+    color: oldlace;
+    border: 0mm;
+    text-align: end;
+}
+
+body {
+      background-image: url(https://scontent.fcor2-1.fna.fbcdn.net/v/t1.18169-9/13417493_1149382788447243_1045626080431079639_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=9267fe&_nc_ohc=wcomT_MBWUIAX8jrueC&_nc_ht=scontent.fcor2-1.fna&oh=00_AT8ATVDWGX0eO6U_-NXYCuBhnIsuVp6bOdFiZNvlTd1gkA&oe=6248EA6F);
+      background-size: 100%;
+      
+} 
+
+img {
+    width: 40px;
+    margin-top: 1%;   
+}
+
+a{
+   text-decoration: none;
+}
+
+ul{
+    overflow: hidden;
+    list-style-type: none;
+    margin: auto;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color:antiquewhite;
+    padding: 10px;
+    font-size: xx-large;
+    text-align: center;
+}
+li, a:hover{
+    color: crimson;
+}
