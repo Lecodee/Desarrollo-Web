@@ -4,9 +4,9 @@ h1 {
     border-top: 10px solid whitesmoke;
     font-family: 'Rock Salt', cursiva;
     padding-top: 25px;
-    background-color: #003d76;
+    background-color: #003d76e5;
     line-height: 110%;
-    color:rgb(231, 36, 75);
+    color:rgb(231, 36, 46);
     padding-bottom: 15px;
     margin-bottom: 0%;
     margin-top: 0%;
@@ -28,7 +28,11 @@ p {
     font-family: 'Indie Flower', cursive;
     color: oldlace;
     border: 0mm;
-    text-align: end;
+    position: absolute;
+    top: 80%;
+    left: 25%;
+    
+
 }
 
 body {
@@ -50,6 +54,8 @@ ul{
     overflow: hidden;
     list-style-type: none;
     margin: auto;
+    position: absolute;
+    left: 15%;
 }
 
 li{
@@ -60,9 +66,10 @@ li a{
     display: block;
     color:antiquewhite;
     padding: 10px;
-    font-size: xx-large;
+    font-size: 30px;
     text-align: center;
+    font-family: 'Bungee', cursive;
 }
 li, a:hover{
-    color: crimson;
+    color: rgb(231, 36, 46);
 } 
