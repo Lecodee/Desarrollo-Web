@@ -30,8 +30,8 @@ p {
     border: 0mm;
     position: absolute;
     top: 80%;
-    left: 25%;
-    
+    left: 24%;
+    font-weight: bold;  
 
 }
 
@@ -43,7 +43,8 @@ body {
 
 img {
     width: 40px;
-    margin-top: 1%;   
+    position: relative;
+    top: 15px;   
 }
 
 a{
@@ -53,9 +54,9 @@ a{
 ul{
     overflow: hidden;
     list-style-type: none;
-    margin: auto;
+    margin: 0;
     position: absolute;
-    left: 15%;
+    left: 20%;
 }
 
 li{
@@ -64,11 +65,13 @@ li{
 
 li a{
     display: block;
-    color:antiquewhite;
-    padding: 10px;
-    font-size: 30px;
+    color:rgb(88, 76, 76);
+    padding: 0px 10px;
+    font-size: 25px; 
     text-align: center;
     font-family: 'Bungee', cursive;
+    background-color: darkgray;
+    
 }
 li, a:hover{
     color: rgb(231, 36, 46);
