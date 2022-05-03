@@ -1,0 +1,101 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    border-top: 10px solid whitesmoke;
+    font-family: 'Rock Salt', cursiva;
+    padding-top: 25px;
+    background-color: #003d76e5;
+    line-height: 110%;
+    color:rgb(231, 36, 46);
+    padding-bottom: 15px;
+    margin-bottom: 0%;
+    margin-top: 0%;    
+}
+
+h2{
+    text-align: center;
+    font-family: 'Rock Salt', cursiva;
+    color:rgb(186, 214, 26);
+    font-size: 50px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.parrafo1 {
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(184, 209, 41);
+    border: 0mm;
+    position: absolute;
+    top: 80%;
+    left: 24%;
+    font-weight: bold;  
+
+}
+
+.parrafo2 {
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(184, 209, 41);
+    border: 0mm;
+    position: absolute;
+    top: 80%;
+    left: 27%;
+    font-weight: bold;
+    padding: 15px;       
+}
+
+body{
+    background-image: url(Imagen/13417493_1149382788447243_1045626080431079639_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+}
+
+img {
+    width: 40px;
+    position: relative;
+    top: 15px;   
+}
+
+a{
+   text-decoration: none;
+}
+
+ul{
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    position: absolute;
+    left: 20%;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color:rgb(88, 76, 76);
+    padding: 0px 10px;
+    font-size: 25px; 
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    background-color: darkgray;
+    height: 60px;
+    margin-top: 10px;
+}
+li, a:hover{
+    color: rgb(230, 25, 35);
+}
+
+.video1{
+       position: absolute;
+       top:52%;
+}
+
+.video2{
+    position: absolute;
+    top:52%;
+    left: 73%;
+}
