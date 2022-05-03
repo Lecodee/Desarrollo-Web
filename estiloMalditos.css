@@ -9,9 +9,7 @@ h1 {
     color:rgb(231, 36, 46);
     padding-bottom: 15px;
     margin-bottom: 0%;
-    margin-top: 0%;
-    
-    
+    margin-top: 0%;    
 }
 
 h2{
@@ -23,10 +21,10 @@ h2{
     padding: 0%;
 }
 
-p {
+.parrafo1 {
     font-size: 25px;
     font-family: 'Indie Flower', cursive;
-    color: oldlace;
+    color: rgb(184, 209, 41);
     border: 0mm;
     position: absolute;
     top: 80%;
@@ -35,11 +33,24 @@ p {
 
 }
 
-body {
-      background-image: url(https://scontent.fcor2-1.fna.fbcdn.net/v/t1.18169-9/13417493_1149382788447243_1045626080431079639_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=9267fe&_nc_ohc=wcomT_MBWUIAX8jrueC&_nc_ht=scontent.fcor2-1.fna&oh=00_AT8ATVDWGX0eO6U_-NXYCuBhnIsuVp6bOdFiZNvlTd1gkA&oe=6248EA6F);
-      background-size: 100%;
-      
-} 
+.parrafo2 {
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(184, 209, 41);
+    border: 0mm;
+    position: absolute;
+    top: 80%;
+    left: 27%;
+    font-weight: bold;
+    padding: 15px;       
+}
+
+body{
+    background-image: url(Imagen/13417493_1149382788447243_1045626080431079639_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+}
 
 img {
     width: 40px;
@@ -75,10 +86,16 @@ li a{
     margin-top: 10px;
 }
 li, a:hover{
-    color: rgb(231, 36, 46);
+    color: rgb(230, 25, 35);
 }
 
-iframe{
+.video1{
        position: absolute;
-       top:53%;
+       top:52%;
+}
+
+.video2{
+    position: absolute;
+    top:52%;
+    left: 73%;
 }
